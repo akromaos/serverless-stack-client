@@ -13,6 +13,7 @@ const config = {
     APP_CLIENT_ID: "3feubeltmauttf8iec5p95ec8d",
     IDENTITY_POOL_ID: "us-east-1:d22650b6-7d7b-443b-9a82-f2a00ccde07d",
   },
+  MAX_ATTACHMENT_SIZE: 5000000,
 };
 
 export default config;
